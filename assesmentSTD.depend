@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1519486585 source:d:\program\c++\assesment\assesmentstd\data.cpp
+	"data.h"
+
+1519489774 source:d:\program\c++\assesment\assesmentstd\main.cpp
+	<iostream>
+	<conio.h>
+	"list.h"
+
+1519489338 source:d:\program\c++\assesment\assesmentstd\list.cpp
+	"list.h"
+	<conio.h>
+
+1519488919 d:\program\c++\assesment\assesmentstd\list.h
+	<string>
+	<windows.h>
+	<iostream>
+	"data.h"
+
+1519486624 d:\program\c++\assesment\assesmentstd\data.h
+	<iostream>
+
